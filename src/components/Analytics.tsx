@@ -17,7 +17,7 @@ function Analytics() {
             harum cum laborum aspernatur, quis a consequatur voluptatibus
             dignissimos, velit maiores expedita.
           </p>
-          <button className="w-[200px] rounded-md font-medium my-6 md:mx-0 py-3 text-[#00df9a] bg-black">
+          <button className="w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-[#00df9a] bg-black">
             Get Started
           </button>
         </div>
